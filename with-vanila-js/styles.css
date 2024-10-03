@@ -38,7 +38,7 @@ body {
 
 .nav-toggle {
   display: none;
-  background-color: #333;
+  background-color: #011b11;
   color: #fff;
   border: none;
   font-size: 18px;
@@ -83,6 +83,13 @@ body {
   width: 100%;
   height: auto;
   border-radius: 5px;
+}
+/* Footer Section */
+.contact {
+  padding: 40px;
+  text-align: center;
+  background-color: #011b11;
+  color: white;
 }
 
 /* Media Queries */
